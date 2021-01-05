@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"sq",
+				"sqlite"
+			],
+			[
+				"mal",
+				"mail-status"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"text",
+				"text-center"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lorenzo/Desktop/index.html",
+		"/Users/lorenzo/Desktop/style.css",
+		"/Users/lorenzo/Desktop/horizontal-scroll-controller.html",
+		"/Users/lorenzo/Documents/yottaip.it/configuratore.php",
+		"/private/var/folders/kh/_7mblj3d7pq57_mbm0y6r93m0000gp/T/fz3temp-2/index.html",
+		"/Users/lorenzo/Documents/yottaip.it/supporto-yottaip.php",
+		"/Users/lorenzo/Documents/yottaip.it/maintenance.php",
+		"/Users/lorenzo/Documents/yottaip.it/trova-rivenditori.php",
+		"/Users/lorenzo/Documents/yottaip.it/faqYottaIp.php",
+		"/Users/lorenzo/Development/celero/node_modules/multi-stage-sourcemap/node_modules/source-map/test/source-map/test-source-map-generator.js",
+		"/Users/lorenzo/Downloads/prestashop_1.7.6.8/index.php",
+		"/Volumes/Senza titol/esportazione-sito.sql",
+		"/Volumes/Senza titol/testi-multi.sql",
+		"/Users/lorenzo/Development/celero/template.json",
+		"/Users/lorenzo/Documents/yottaip.it/prezzi.php",
+		"/Applications/MAMP/htdocs/Turbo-Armec-Platform/storage/logs/laravel.log",
+		"/Users/lorenzo/Downloads/lorenzoprodon_20200914/connections.json",
+		"/Users/lorenzo/Desktop/rrj_config.xml",
+		"/Users/lorenzo/Documents/yottaip.it/manuale-utente.php",
+		"/Users/lorenzo/Desktop/sdp.sh",
+		"/Users/lorenzo/Documents/yottaip.it/software.php",
+		"/Users/lorenzo/Documents/yottaip.it/ufficio-virtuale.php",
+		"/Users/lorenzo/Documents/yottaip.it/footer.php",
+		"/Users/lorenzo/Downloads/onesignal_ctrl.py",
+		"/private/var/folders/kh/_7mblj3d7pq57_mbm0y6r93m0000gp/T/fz3temp-2/menu.php",
+		"/private/var/folders/kh/_7mblj3d7pq57_mbm0y6r93m0000gp/T/fz3temp-2/index_2020.php",
+		"/private/var/folders/kh/_7mblj3d7pq57_mbm0y6r93m0000gp/T/fz3temp-2/shop_new.php",
+		"/Users/lorenzo/Downloads/cozastore/index.html",
+		"/Users/lorenzo/Development/celero/_tmp/weather_data/2020-Bari-Aprile",
+		"/private/var/folders/kh/_7mblj3d7pq57_mbm0y6r93m0000gp/T/fz3temp-2/mail.php",
+		"/Users/lorenzo/Downloads/banker/index.html",
+		"/Volumes/Drive/banker-master/index.html",
+		"/Users/lorenzo/Downloads/drive-download-20200408T142517Z-001/logo-celero-mktplace.svg",
+		"/Users/lorenzo/Downloads/keen_v1.4.9/theme/demo1/tools/gulpfile.js",
+		"/Users/lorenzo/Downloads/busicol-master/index.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
