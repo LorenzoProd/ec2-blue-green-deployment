@@ -1,4 +1,2 @@
 #!/bin/bash
 sudo apt-get install -y docker-compose
-sudo mkdir /var/www
-sudo mkdir /var/www/html
