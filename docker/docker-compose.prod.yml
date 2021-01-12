@@ -3,7 +3,7 @@ version: "3.3"
 services:
 
   nginx:
-    image: celero/nginx
+    image: nginx
     build: ./nginx/
     ports:
       - "80:80"
